@@ -10,7 +10,7 @@ const loginSwitch = ()=>{
 }
 
   return (
-    <div id="login">
+    <div id="Container">
       <div id="user">
         <input hidden={login} placeholder="Enter the email id or phone" name="" id="" type="text" />
         <input hidden={login} placeholder="Full Name" name="" id="" type="text" />
